@@ -1,2 +1,2 @@
 # astral-beta-build
-push Auto update
+push auto update pack
